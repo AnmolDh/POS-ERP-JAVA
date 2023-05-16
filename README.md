@@ -16,7 +16,7 @@ Make sure you have Java installed on your machine, as the application requires J
 
 ## Contributing
 
-Contributions to this project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
+Since this app was created for educational purposes only, contributions are not necessary. However, if you would like to suggest any improvements or enhancements to the app, please feel free to do so.
 
 ## License
 
